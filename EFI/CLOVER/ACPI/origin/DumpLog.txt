@@ -1,0 +1,64 @@
+8:504  2:536  Found BIOS RSDP at E9010
+8:504  0:000  Saving ACPI tables from RSDP E9010 to EFI\CLOVER\ACPI\origin ...
+8:504  0:000   E9010: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+8:504  0:000    (Xsdt: CEFB88E8, Rsdt: CEFB8840)
+8:504  0:000    CEFB88E8: 'XSDT', 'SLIC-WKS', Rev: 1, Len: 108
+8:504  0:000    CEFB8840: 'RSDT', 'SLIC-WKS', Rev: 1, Len: 72
+8:504  0:000    Tables in Xsdt: 9
+8:504  0:000    0. CEFB8A88: 'FACP', 'TYLSBURG', Rev: 3, Len: 244
+8:504  0:000        (Dsdt: CEFB90A3, Facs: CEFB8800, XDsdt: CEFB90A3, XFacs: CEFB8800)
+8:504  0:000        CEFB90A3: 'DSDT', 'DSDT_PRJ', Rev: 1, Len: 41186
+8:505  0:000        CEFB8800: 'FACS', Ver: 1, Len: 64
+8:505  0:000    1. CEFB8B7C: 'APIC', 'TYLSBURG', Rev: 1, Len: 264
+8:505  0:000    2. CEFB8C84: 'ASF!', 'TYLSBURG', Rev: 32, Len: 99
+8:505  0:000    3. CEFB8CE7: 'MCFG', 'TYLSBURG', Rev: 1, Len: 60
+8:505  0:000    4. CEFB8D23: 'TCPA', 'TYLSBURG', Rev: 1, Len: 50
+8:505  0:000    5. CEFB8D55: 'SLIC', 'SLIC-WKS', Rev: 1, Len: 374
+8:505  0:000    6. CEFB8ECB: 'HPET', 'TYLSBURG', Rev: 1, Len: 56
+8:505  0:000    7. CEFB8F03: 'DMAR', 'TYLSBURG', Rev: 1, Len: 368
+8:505  0:000    8. CEFC4A99: 'SSDT', 'PPM RCM', Rev: 1, Len: 9300
+8:505  0:000    Tables in Rsdt: 9
+8:505  0:000    0. CEFB8A14: 'FACP', 'TYLSBURG', Rev: 1, Len: 116
+8:505  0:000        (Dsdt: CEFB90A3, Facs: CEFB8800)
+8:505  0:000        CEFB90A3: 'DSDT', 'DSDT_PRJ', Rev: 1, Len: 41186
+8:506  0:000        CEFB8800: 'FACS', Ver: 1, Len: 64
+8:506  0:000    1. CEFB8B7C: 'APIC', 'TYLSBURG', Rev: 1, Len: 264
+8:506  0:000    2. CEFB8C84: 'ASF!', 'TYLSBURG', Rev: 32, Len: 99
+8:506  0:000    3. CEFB8CE7: 'MCFG', 'TYLSBURG', Rev: 1, Len: 60
+8:506  0:000    4. CEFB8D23: 'TCPA', 'TYLSBURG', Rev: 1, Len: 50
+8:506  0:000    5. CEFB8D55: 'SLIC', 'SLIC-WKS', Rev: 1, Len: 374
+8:506  0:000    6. CEFB8ECB: 'HPET', 'TYLSBURG', Rev: 1, Len: 56
+8:506  0:000    7. CEFB8F03: 'DMAR', 'TYLSBURG', Rev: 1, Len: 368
+8:506  0:000    8. CEFC4A99: 'SSDT', 'PPM RCM', Rev: 1, Len: 9300
+8:506  0:000  Found UEFI Acpi 2.0 RSDP at CEBD5000
+8:506  0:000  Printing ACPI tables from RSDP CEBD5000 ...
+8:506  0:000   CEBD5000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+8:506  0:000    (Xsdt: CEFB88E8, Rsdt: CEFB8840)
+8:506  0:000    CEFB88E8: 'XSDT', 'SLIC-WKS', Rev: 1, Len: 108
+8:506  0:000    CEFB8840: 'RSDT', 'SLIC-WKS', Rev: 1, Len: 72
+8:506  0:000    Tables in Xsdt: 9
+8:506  0:000    0. CEFB8A88: 'FACP', 'TYLSBURG', Rev: 3, Len: 244
+8:506  0:000        (Dsdt: CEFB90A3, Facs: CEFB8800, XDsdt: CEFB90A3, XFacs: CEFB8800)
+8:506  0:000        CEFB90A3: 'DSDT', 'DSDT_PRJ', Rev: 1, Len: 41186
+8:507  0:000        CEFB8800: 'FACS', Ver: 1, Len: 64
+8:507  0:000    1. CEFB8B7C: 'APIC', 'TYLSBURG', Rev: 1, Len: 264
+8:507  0:000    2. CEFB8C84: 'ASF!', 'TYLSBURG', Rev: 32, Len: 99
+8:507  0:000    3. CEFB8CE7: 'MCFG', 'TYLSBURG', Rev: 1, Len: 60
+8:507  0:000    4. CEFB8D23: 'TCPA', 'TYLSBURG', Rev: 1, Len: 50
+8:507  0:000    5. CEFB8D55: 'SLIC', 'SLIC-WKS', Rev: 1, Len: 374
+8:507  0:000    6. CEFB8ECB: 'HPET', 'TYLSBURG', Rev: 1, Len: 56
+8:507  0:000    7. CEFB8F03: 'DMAR', 'TYLSBURG', Rev: 1, Len: 368
+8:507  0:000    8. CEFC4A99: 'SSDT', 'PPM RCM', Rev: 1, Len: 9300
+8:507  0:000    Tables in Rsdt: 9
+8:507  0:000    0. CEFB8A14: 'FACP', 'TYLSBURG', Rev: 1, Len: 116
+8:507  0:000        (Dsdt: CEFB90A3, Facs: CEFB8800)
+8:507  0:000        CEFB90A3: 'DSDT', 'DSDT_PRJ', Rev: 1, Len: 41186
+8:508  0:000        CEFB8800: 'FACS', Ver: 1, Len: 64
+8:508  0:000    1. CEFB8B7C: 'APIC', 'TYLSBURG', Rev: 1, Len: 264
+8:508  0:000    2. CEFB8C84: 'ASF!', 'TYLSBURG', Rev: 32, Len: 99
+8:508  0:000    3. CEFB8CE7: 'MCFG', 'TYLSBURG', Rev: 1, Len: 60
+8:508  0:000    4. CEFB8D23: 'TCPA', 'TYLSBURG', Rev: 1, Len: 50
+8:508  0:000    5. CEFB8D55: 'SLIC', 'SLIC-WKS', Rev: 1, Len: 374
+8:508  0:000    6. CEFB8ECB: 'HPET', 'TYLSBURG', Rev: 1, Len: 56
+8:508  0:000    7. CEFB8F03: 'DMAR', 'TYLSBURG', Rev: 1, Len: 368
+8:508  0:000    8. CEFC4A99: 'SSDT', 'PPM RCM', Rev: 1, Len: 9300
