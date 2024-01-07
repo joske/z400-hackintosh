@@ -1,4 +1,4 @@
-# HP Z400 workstation CLOVER bootloader files
+# HP Z400 workstation OPENCORE bootloader files
 
 Hackintosh with the following hardware:
 
@@ -18,10 +18,10 @@ Hackintosh with the following hardware:
 
 ### Works
 
-- boots to macOS mojave with clover 5156
+- boots to macOS mojave with opencore 0.9.7
 - metal graphics with native AMD gpu driver (but graphical glitches appear near the top)
 - network card works with native driver
 
 ### No Worky
 
-- audio only via HDMI/DP for now
+- reboot gets stuck, shutdown/sleep work
