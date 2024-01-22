@@ -595,6 +595,24 @@
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
 			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>BundlePath</key>
+				<string>SMCSuperIO.kext</string>
+				<key>Comment</key>
+				<string>SMCSuperIO.kext</string>
+				<key>Enabled</key>
+				<true/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/SMCSuperIO</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
 		</array>
 		<key>Block</key>
 		<array/>
@@ -843,22 +861,14 @@
 			<dict>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
-				<key>#csr-active-config (SIP enabled)</key>
-				<data>AAAAAA==</data>
-				<key>#csr-active-config (macOS 10.13)</key>
-				<data>/wMAAA==</data>
-				<key>#csr-active-config (macOS 11)</key>
-				<data>ZwgAAA==</data>
-				<key>#csr-active-config (macOS 12)</key>
-				<data>7w8AAA==</data>
+				<key>#csr-active-config</key>
+				<data>/wcAAA==</data>
 				<key>ForceDisplayRotationInEFI</key>
 				<integer>0</integer>
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>dart=0 -v npci=0x2000 darkwake=1 debug=0x100 agdpmod=pikera alcid=12</string>
-				<key>#csr-active-config (macOS 10.14/10.15)</key>
-				<data>/wcAAA==</data>
+				<string>dart=0 npci=0x2000 darkwake=1 debug=0x100 agdpmod=pikera alcid=12</string>
 				<key>prev-lang:kbd</key>
 				<string>en-US:0</string>
 				<key>run-efi-updater</key>
