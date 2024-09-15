@@ -19,7 +19,7 @@ Hackintosh with the following hardware:
 ### Works
 
 - boots to macOS mojave with opencore 1.0.1
-- metal graphics with native AMD gpu driver (but graphical glitches appear near the top)
+- metal graphics with native AMD gpu driver
 - network card works with native driver
 - onboard audio with alcid=12
 - shutdown
